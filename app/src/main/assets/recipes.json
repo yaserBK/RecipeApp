@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tomato pasta",
+    "ingredients": ["tomato", "pasta", "water"]
+  },
+  {
+    "name": "Chicken tikka masala",
+    "ingredients": ["chicken", "butter", "onion"]
+  },
+  {
+    "name": "Cheesecake",
+    "ingredients": ["biscuit", "butter", "sugar"]
+  },
+  {
+    "name": "Chocolate brownie",
+    "ingredients": ["chocolate", "butter", "sugar"]
+  },
+  {
+    "name": "Meatball",
+    "ingredients": ["Meat", "parmesan", "onion"]
+  },
+  {
+    "name": "Meatloaf",
+    "ingredients": ["Meat", "egg", "onion"]
+  }
+]
