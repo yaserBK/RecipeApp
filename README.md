@@ -27,7 +27,7 @@ The name of the recipe is stored as a String - straight forward choice.
 <br />
 Ingredients are stored in a HashSet - the reasoning behind which is explained further below.
 
-Code for this class can be found via the following directory path:<br />
+Code for this class can be found in the following directory path:
 ```app/src/main/java/yaserBk/recipeapplication/models/Recipe.kt```
 
 ### 2. ```class MainActivity: AppCompatActivity(){...}```:
@@ -52,6 +52,9 @@ This function iterates through every  recipe in the recipe array and checks to s
 If recipe.ingredients exist in availableIngredients, then ```recipe.name``` is appended on to ```var plausibleRecipes: String```. Once the recipe array is iterated through, the plausibleRecipes string is returned to the function call. 
 
 Once this string is returned, funciton called SetMainText changes the ```TextView.main_text``` attribute to the ```plausibleRecipes``` string (i.e. the text displayed in-app on start)
+
+The code for this class can be found in the follow directory path:
+```/app/src/main/java/yaserBk/recipeapplication/MainActivity.kt```
 
 
 __Why is a HashSet used to store availableIngredients and recipe.ingredients rather than an Array/ArrayList/List?__ 
