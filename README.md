@@ -60,7 +60,7 @@ The code for this class can be found in the follow directory path:
 __Why is a HashSet used to store availableIngredients and recipe.ingredients rather than an Array/ArrayList/List?__ 
 1. The ```ingredients``` and ```availableIngredients``` do not need to be iterated through. 
 2. Use of HashSet prevents duplicate entries.
-3. The use of a HashSet, rather than an ArrayList, reduces time complexity when performing the compareAll operation on the two sets (in the ```getPlausibleRecipes()``` function).
+3. The use of a HashSet, rather than an ArrayList, reduces time complexity when performing the ```compareAll()``` operation on the two sets (in the ```getPlausibleRecipes()``` function).
 
 
 __The use of a coroutine for I/O operations:__
