@@ -73,4 +73,4 @@ __Notes:__
 
 I am very open to feedback regarding logic and structure! I understand that the code in ```MainActivity.kt``` doesnt need to be broken down so heavily into functions, especially since the declared functions do not need to be reused (within the scope of the assessment). If youd like for me to re-do parts of the program with some feedback or specifics in mind, please do let me know. <br />
 Thanks! <br />
-- Yaser Bk.
+¬ Yaser Bk.
