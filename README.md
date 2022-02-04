@@ -67,7 +67,6 @@ __The use of a coroutine for I/O operations:__
 
 A majority of the logic for this application is carried out within a co-routine (using ```Dispatcher.IO```) as networking and read/write operations are not allowed within the main thread (for the sake of main safety).
 Further, Dispatcher.IO is optimized to perform disk and network I/O tasks. 
-
-
+ 
 
 
