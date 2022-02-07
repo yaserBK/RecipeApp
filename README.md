@@ -3,7 +3,7 @@
 ## Dependencies used (app/build.gradle): 
 
 1. GSon - to map JSON data to Kotlin Objects 
-2. kotlinx.coroutines - Used to start a couroutine concurrent to the main thread. 
+2. kotlinx.coroutines - Used to start a coroutine concurrent to the main thread. 
 
 ## Permissions added to app/src/main/AndroidManifest.xml:
 
